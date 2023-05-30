@@ -1,7 +1,7 @@
 {
   "name": "mineflayer",
   "version": "4.8.1",
-  "description": "create minecraft bots with a stable, high level API",
+  "description": "SMPCreateCraft.aternos.me:29301",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
